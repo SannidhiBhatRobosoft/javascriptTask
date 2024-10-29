@@ -1,0 +1,32 @@
+* {box-sizing:border-box}
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.mySlides {
+  display: none;
+}
+
+.prev, .next {
+    cursor: pointer;
+   display: inline;
+   justify-content: space-between;
+width: 100%;
+text-align: center;
+  
+}
+
+.prenext{
+    
+    display: flex;
+    
+
+}
+
+.numbertext {
+  text-align: center;
+}
+
